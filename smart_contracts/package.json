@@ -2,7 +2,7 @@
   "name": "KryptoPunks_smart_contracts",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Aymen1001",
+  "author": "thycresendo",
   "license": "MIT",
   "scripts": {
     "deploy": "npx hardhat run scripts/deploy-vault.js",
