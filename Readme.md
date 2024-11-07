@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# Superfluid KryptoPunks NFT Staking Dapp
+# KryptoPunks NFT Staking Dapp
 
 This is a modern NFT project, a Superfluid dapp that allows users to mint their KryptoPunks NFT and stake them to receive staking rewards in the form of our own ERC20 token named  KryptoPunkToken (KPT).
 
